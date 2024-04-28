@@ -106,6 +106,6 @@ class TestProfesor(unittest.TestCase):
         # Comprobamos que se obtenga el legajo correctamente
         self.assertEqual(profesor.obtener_legajo(), 13579)
 
-# Ejecutamos los tests si este archivo es ejecutado directamente
+# Ejecutamos los tests si este archivo es ejecutado directamente - Albarracin Gonzalo Nahuel
 if __name__ == '__main__':
     unittest.main()
